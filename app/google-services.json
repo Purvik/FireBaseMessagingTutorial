@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "584359412119",
+    "firebase_url": "https://fir-messaging-5080f.firebaseio.com",
+    "project_id": "fir-messaging-5080f",
+    "storage_bucket": "fir-messaging-5080f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584359412119:android:ab225f868fb5f079",
+        "android_client_info": {
+          "package_name": "com.purvik.firebasemessagingtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584359412119-4h0jvgvp0el73rfe5torvbv7vlcnl2s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-nP1bj5Yl9OdwdPayfPtYAwxenzVtvg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
